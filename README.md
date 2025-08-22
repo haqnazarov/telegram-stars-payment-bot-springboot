@@ -37,8 +37,8 @@ Get your bot up and running in minutes! 🚀
 
 1. **Clone the Repo**
    ```bash
-   git clone https://github.com/haqnazarov/telegram-stars-payment-bot springboot.git
-   cd telegram-stars-payment-bot springboot
+   git clone https://github.com/haqnazarov/telegram-stars-payment-bot-springboot.git
+   cd telegram-stars-payment-bot-springboot
    ```
 
 2. **Set Bot Token**  
